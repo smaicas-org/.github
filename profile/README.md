@@ -21,4 +21,4 @@ Community for Open Source projects, code samples and learning guides
 ### Projects
 
 * [Disclaimer Text generator by folder in MAUI App](https://github.com/smaicas-org/Dnj.Colab/tree/dev/Projects/MAUI/Dnj.Colab.Samples.FileDisclaimer)
-* [wgpu 3D renderer in rust](https://github.com/cdecompilador/wgpu-renderer)
+* [wgpu 3D🧊 renderer in rust🦀](https://github.com/cdecompilador/wgpu-renderer)
