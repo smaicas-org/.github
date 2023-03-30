@@ -4,23 +4,30 @@ Community for Open Source projects, code samples and learning guides
 
 ### Samples:
 
-* [MVVM Pattern Implementation in Blazor App](https://github.com/smaicas-org/Dnj.Colab/tree/dev/Samples/DOTNET/MVVM/Dnj.Colab.Samples.MvvmSample)
-
-* [Markov Chain Algorithm Implementation for Text Generation in Blazor App](https://github.com/smaicas-org/Dnj.Colab/tree/dev/Samples/DOTNET/MARKOV/Dnj.Colab.Samples.Markov)
-
-* [JSIterop Simple Sample in Blazor App](https://github.com/smaicas-org/Dnj.Colab/tree/dev/Samples/DOTNET/JSINTEROP/Dnj.Colab.Samples.SimpleJSInterop)
-
-* [JSIterop using Typescript in Blazor App](https://github.com/smaicas-org/Dnj.Colab/tree/dev/Samples/DOTNET/JSINTEROP/Dnj.Colab.Samples.JSInteropTS)
-
-* [CQRS Pattern with Mediatr and FluentValidation in Blazor App](https://github.com/smaicas-org/Dnj.Colab/tree/dev/Samples/DOTNET/CQRS/Dnj.Colab.Samples.SimpleCqrs)
-
-* [FileSystem Access samples in MAUI Hybrid App](https://github.com/smaicas-org/Dnj.Colab/tree/dev/Samples/MAUI/FILESYSTEMACCESS/Dnj.Colab.Samples.FileSystemAccess)
+* [C# - Patterns](https://github.com/smaicas/Samples-Patterns)
+* [C# - StreamreaderEnumerable](https://github.com/smaicas/Samples-StreamReader)
+* [C# - Sorting Algorithms](https://github.com/smaicas/Samples-SortingAlgorithms)
+* [C# - Markov Chain](https://github.com/smaicas/Samples-MarkovChain)
+* [C# - FileSystem Access](https://github.com/smaicas/Samples-FileSystemAccess)
+* [Blazor - E2E Tests](https://github.com/smaicas/Samples-E2ETests)
+* [Blazor - MVVM](https://github.com/smaicas/Samples-MVVM)
+* [Blazor - JSInterop](https://github.com/smaicas/Samples-JSInterop)
+* [.NET - Rest](https://github.com/smaicas/Samples-Rest)
+* [.NET - CQRS](https://github.com/smaicas/Samples-CQRS)
+* [.NET - Background Task Worker Service](https://github.com/smaicas/Samples-BackgroundTaskWorkerService)
 
 ### Training (competitive programming)
 
-* [Codewars - Battleship Field Validator (kyu 3)](https://github.com/smaicas-org/Dnj.Colab/tree/dev/Training/CODEWARS/Kyu3/BattleshipFieldValidator)
+* [C# - Codewars](https://github.com/smaicas/Training-Codewars)
+* [C# - Codeforce](https://github.com/smaicas/Training-Codeforces)
+* [C# - Algorithms](https://github.com/smaicas/Training-Algorithms)
+* [C# - Ioc and DI](https://github.com/smaicas/Training-IoCandDI)
+* [C# - Recursivity](https://github.com/smaicas/Training-Recursivity)
+* [C# - Challenges](https://github.com/smaicas/Training-Challenges)
+* [C# - Threading](https://github.com/smaicas/Training-Threading)
+* [C# - Datastructures](https://github.com/smaicas/Training-DataStructures)
 
 ### Projects
 
-* [Disclaimer Text generator by folder in MAUI App](https://github.com/smaicas-org/Dnj.Colab/tree/dev/Projects/MAUI/Dnj.Colab.Samples.FileDisclaimer)
-* [wgpu 3D🧊 renderer in rust🦀](https://github.com/cdecompilador/wgpu-renderer)
+* [Maui - FIle Disclaimer generator](https://github.com/smaicas/Projects-FileDisclaimer)
+* [Rust - wgpu 3D🧊 renderer in rust🦀](https://github.com/cdecompilador/wgpu-renderer)
