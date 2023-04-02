@@ -1,31 +1,25 @@
 Community for Open Source projects, code samples and learning guides
 
-### [Dev n' Joy Colab](https://github.com/smaicas-org/Dnj.Colab)
-
 ### Samples:
 
-* [C# - Patterns](https://github.com/smaicas/Samples-Patterns)
-* [C# - StreamreaderEnumerable](https://github.com/smaicas/Samples-StreamReader)
-* [C# - Sorting Algorithms](https://github.com/smaicas/Samples-SortingAlgorithms)
-* [C# - Markov Chain](https://github.com/smaicas/Samples-MarkovChain)
-* [C# - FileSystem Access](https://github.com/smaicas/Samples-FileSystemAccess)
-* [Blazor - E2E Tests](https://github.com/smaicas/Samples-E2ETests)
-* [Blazor - MVVM](https://github.com/smaicas/Samples-MVVM)
-* [Blazor - JSInterop](https://github.com/smaicas/Samples-JSInterop)
-* [.NET - Rest](https://github.com/smaicas/Samples-Rest)
-* [.NET - CQRS](https://github.com/smaicas/Samples-CQRS)
-* [.NET - Background Task Worker Service](https://github.com/smaicas/Samples-BackgroundTaskWorkerService)
+* [C# - Design Patterns](https://github.com/smaicas/Samples-DesignPatterns)
+* [C# - StreamreaderEnumerable implementation and benchmarks](https://github.com/smaicas/Samples-StreamReaderEnumerable)
+* [C# - Sorting Algorithms implementations](https://github.com/smaicas/Samples-SortingAlgorithms)
+* [C# - Markov Chain Algorithm for text generation](https://github.com/smaicas/Samples-Markov)
+* [C# - Threading](https://github.com/smaicas/Samples-Threading)
+* [C# - Inversion of Control and Dependency Injection](https://github.com/smaicas/Samples-IoCAndDI)
+* [MAUI - FileSystem Access](https://github.com/smaicas/Samples-MauiFileSystemAccess)
+* [Blazor - E2E Tests with Playwright](https://github.com/smaicas/Samples-E2EPlaywright)
+* [Blazor - MVVM Pattern with Blazor](https://github.com/smaicas/Samples-MvvmBlazor)
+* [Blazor - JSInterop behaviors and typescript integration](https://github.com/smaicas/Samples-JSInterop)
+* [.NET - CQRS Pattern with Mediatr](https://github.com/smaicas/Samples-Cqrs)
+* [.NET - Background Task Worker Service](https://github.com/smaicas/Samples-BackgroundService)
 
 ### Training (competitive programming)
 
-* [C# - Codewars](https://github.com/smaicas/Training-Codewars)
-* [C# - Codeforce](https://github.com/smaicas/Training-Codeforces)
-* [C# - Algorithms](https://github.com/smaicas/Training-Algorithms)
-* [C# - Ioc and DI](https://github.com/smaicas/Training-IoCandDI)
-* [C# - Recursivity](https://github.com/smaicas/Training-Recursivity)
-* [C# - Challenges](https://github.com/smaicas/Training-Challenges)
-* [C# - Threading](https://github.com/smaicas/Training-Threading)
-* [C# - Datastructures](https://github.com/smaicas/Training-DataStructures)
+* [C# - Codewars](https://github.com/smaicas/Train-Codewars)
+* [C# - Codeforces](https://github.com/smaicas/Train-Codeforces)
+* [C# - Algorithms](https://github.com/smaicas/Train-Algorithms)
 
 ### Projects
 
