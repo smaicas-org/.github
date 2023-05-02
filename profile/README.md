@@ -8,12 +8,18 @@ Community for Open Source projects, code samples and learning guides
 * [C# - Markov Chain Algorithm for text generation](https://github.com/smaicas/Samples-Markov)
 * [C# - Threading](https://github.com/smaicas/Samples-Threading)
 * [C# - Inversion of Control and Dependency Injection](https://github.com/smaicas/Samples-IoCAndDI)
+* [C# - Websocket](https://github.com/smaicas/Samples-Websocket)
 * [MAUI - FileSystem Access](https://github.com/smaicas/Samples-MauiFileSystemAccess)
 * [Blazor - E2E Tests with Playwright](https://github.com/smaicas/Samples-E2EPlaywright)
 * [Blazor - MVVM Pattern with Blazor](https://github.com/smaicas/Samples-MvvmBlazor)
 * [Blazor - JSInterop behaviors and typescript integration](https://github.com/smaicas/Samples-JSInterop)
 * [.NET - CQRS Pattern with Mediatr](https://github.com/smaicas/Samples-Cqrs)
 * [.NET - Background Task Worker Service](https://github.com/smaicas/Samples-BackgroundService)
+* [Python/.NET - Machine Learning](https://github.com/smaicas/ML-Python)
+
+### Resources:
+* [C# Resources - TypesStore](https://github.com/smaicas/Resources-TypesStore)
+* [C# Resources - ActionQueue](https://github.com/smaicas/Resources-ActionQueue)
 
 ### Training (competitive programming)
 
